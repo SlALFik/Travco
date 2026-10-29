@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Послідовне натискання кнопок із затримкою
 // @author       Slalfik
-// @match        https://вставте_сюди_адресу_сайту/*
+// @match        https://travcotools.com/*
 // @grant        none
 // @include        *://*.travcotools.*
 // ==/UserScript==
